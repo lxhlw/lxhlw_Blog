@@ -1,15 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lxhlw.cf</id>
-    <title>Gridea</title>
-    <updated>2021-07-28T07:31:46.100Z</updated>
+    <title>lxhlw的个人博客</title>
+    <updated>2021-07-28T09:18:02.619Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lxhlw.cf"/>
     <link rel="self" href="https://lxhlw.cf/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>&lt;h3 style=&quot;color:#ccc;&quot;&gt;温故而知新&lt;/h3&gt;</subtitle>
     <logo>https://lxhlw.cf/images/avatar.png</logo>
     <icon>https://lxhlw.cf/favicon.ico</icon>
-    <rights>All rights reserved 2021, Gridea</rights>
+    <rights>All rights reserved 2021, lxhlw的个人博客</rights>
+    <entry>
+        <title type="html"><![CDATA[测试标题]]></title>
+        <id>https://lxhlw.cf/post/ce-shi-biao-ti/</id>
+        <link href="https://lxhlw.cf/post/ce-shi-biao-ti/">
+        </link>
+        <updated>2021-07-28T09:14:41.000Z</updated>
+        <content type="html"><![CDATA[<p>测试内容😀<img src="https://lxhlw.cf/post-images/1627463707564.webp" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://lxhlw.cf/post/hello-gridea/</id>
