@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lxhlw.cf</id>
     <title>lxhlw的个人博客</title>
-    <updated>2021-07-28T09:18:02.619Z</updated>
+    <updated>2021-07-28T09:24:19.891Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lxhlw.cf"/>
     <link rel="self" href="https://lxhlw.cf/atom.xml"/>
-    <subtitle>&lt;h3 style=&quot;color:#ccc;&quot;&gt;温故而知新&lt;/h3&gt;</subtitle>
+    <subtitle>温故而知新</subtitle>
     <logo>https://lxhlw.cf/images/avatar.png</logo>
     <icon>https://lxhlw.cf/favicon.ico</icon>
     <rights>All rights reserved 2021, lxhlw的个人博客</rights>
